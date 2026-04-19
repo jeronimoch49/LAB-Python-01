@@ -21,7 +21,7 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
      ```  
 
 3. **Resolución de ejercicios**  
-   - Desarrolle los programas en el entorno de programacion Google colab [https://colab.research.google.com/]  
+   - Desarrolle los programas en el entorno de programacion [Google colab](https://colab.research.google.com/)
    - Una vez finalizados, copie el código a los archivos `.ipynb` correspondientes en su repositorio.  
    - Cada archivo debe contener:
      - La implementación de su solución.  
